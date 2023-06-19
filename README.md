@@ -29,7 +29,7 @@ To get started with the  website, simply clone this repository to your local mac
 
 4. Blogs Page:
 
-Answering questions related to access tokens, SQL vs. NoSQL databases, Express JS, and MongoDB aggregate
+- Answering questions related to access tokens, SQL vs. NoSQL databases, Express JS, and MongoDB aggregate
 
 5. All Toys Page:
 
@@ -57,7 +57,7 @@ Answering questions related to access tokens, SQL vs. NoSQL databases, Express J
 
 9. 404 Page:
 
-Customized 404 page with an interesting image/gif and a "Back to home" button
+- Customized 404 page with an interesting image/gif and a "Back to home" button
 
 # Technologies Used:
 
@@ -80,4 +80,6 @@ Click here for the private repo: [https://monarch-c48f1.web.app/]
 
 
 ## [Server Side Private Repo Link](https://b7a11-toy-marketplace-server-side-fayeja.vercel.app/)
-Click here for the private repo: [https://b7a11-toy-marketplace-server-side-fayeja.vercel.app/]# Toy_MarketPlace
+Click here for the private repo: [https://b7a11-toy-marketplace-server-side-fayeja.vercel.app/]
+
+##Toy_MarketPlace
